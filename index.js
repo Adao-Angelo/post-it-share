@@ -14,10 +14,10 @@ app.get('/note/:id', (req, res) => {
 })
 
 app.post('/notes', async (req, res) => {
-  const { content } = req.body;
+  const { content } = req.body
 
   if (!content) {
-    return res.send('<span>Erro inesperado!</span>')
+    return res.send('<span class="error">Erro inesperado!</span>')
   }
 
   const id = crypto.randomUUID();
