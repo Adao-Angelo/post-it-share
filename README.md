@@ -14,12 +14,13 @@ Um aplicativo simples para criar e compartilhar notas de forma rápida. Desenvol
 
 ## 🛠️ Tecnologias Utilizadas
 
-| Tecnologia       | Descrição                                                     |
-|-------------------|---------------------------------------------------------------|
-| **JavaScript**   | Linguagem de programação principal do projeto.                |
-| **Node.js**      | Ambiente de execução para JavaScript no lado do servidor.      |
-| **Express**      | Framework minimalista para criação de APIs.                   |
-| **SQLite**       | Banco de dados leve e eficiente para armazenar notas.          |
+| Tecnologia       | Descrição                                                     | Ícone                                                                                   |
+|-------------------|---------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **JavaScript**   | Linguagem de programação principal do projeto.                | ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+| **Node.js**      | Ambiente de execução para JavaScript no lado do servidor.      | ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white) |
+| **Express**      | Framework minimalista para criação de APIs.                   | ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white) |
+| **SQLite**       | Banco de dados leve e eficiente para armazenar notas.          | ![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat&logo=sqlite&logoColor=white) |
+
 
 ---
 
